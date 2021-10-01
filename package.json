@@ -1,0 +1,15 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AhmedMostafa16/AhmedMostafa16.github.io.git",
+  "author": "Ahmed Mostafa <amk67482@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "autoprefixer": "^10.3.6",
+    "live-server": "^1.2.1",
+    "postcss-cli": "^9.0.1",
+    "tailwindcss": "^2.2.16"
+  }
+}
